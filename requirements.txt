@@ -3,3 +3,4 @@ numpy
 matplotlib
 scikit-learn
 jupyter
+tensorflow==2.21.0
