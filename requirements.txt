@@ -4,3 +4,6 @@ matplotlib
 scikit-learn
 jupyter
 tensorflow==2.21.0
+tensorflow-hub==0.16.1
+tf-keras==2.21.0
+setuptools==81.0.0
