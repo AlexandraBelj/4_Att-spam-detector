@@ -34,6 +34,11 @@ models/*
 outputs/figures/*
 outputs/metrics/*
 
+# Track selected final evaluation figures
+!outputs/figures/baseline_threshold_0_40_confusion_matrix.png
+!outputs/figures/gru_threshold_0_89_confusion_matrix.png
+!outputs/figures/use_threshold_0_50_confusion_matrix.png
+
 # Keep output folders in Git
 !outputs/figures/.gitkeep
 !outputs/metrics/.gitkeep
